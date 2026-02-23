@@ -44,7 +44,7 @@ public class Calculator extends JFrame {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         calculator.setSize(400, 350);
-        calculator.setTitle("Java Calculator - Arbore");
+        calculator.setTitle("Java Calculator");
         calculator.setResizable(false);
         calculator.setVisible(true);
         calculator.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
